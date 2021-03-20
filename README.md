@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 alias art="php artisan"
 alias pat="php artisan test"
 alias pat:t="php artisan make:test"
@@ -24,3 +25,7 @@ alias .="cd ../"
 alias ..="cd ../../"
 alias ...="cd ../../../"
 alias ......="cd ../../../../../"
+=======
+# my-bash-aliases
+Some of my bash alias
+>>>>>>> 09263cbd0758358fdaf7741b6d5959d0f47fe899
